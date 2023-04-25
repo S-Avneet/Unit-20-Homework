@@ -1,7 +1,7 @@
 # Unit-20-Homework
 # Joint Savings Smart Contracts
 
-A Solidity Smart Contract that uses Ether management functions to implement features for two user accounts, namely, deposit and withdrawal of funds.
+Solidity Smart Contract that uses Ether functions to implement features for two user accounts, like deposit and withdrawal of funds.
 <br />
 
 ## Steps Completed
